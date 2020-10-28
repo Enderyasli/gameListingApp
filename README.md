@@ -9,7 +9,7 @@ This repository shows you how to use Retrofit library using RxJava in android. I
 Support libraries:Retrofit2, View Binding, RxJava, Glide, Constraintlayout, RecyclerView, CardView, Product Flavor.
 
 
-Adding multiple build variants in android
+Adding multiple build variants in android;
 
     productFlavors {
 
